@@ -2,7 +2,8 @@
 
 Here you will find some typical coding interview problems and my proposed solution for each one.
 
-# Problem set
+## Problem set
+
 <ol>
   <li><h4>Words counter problem</h4><p>Create a program that counts the number of words in a text. Ignore capital letters, commas and periods.</p><p>Time complexity of solution provided: O(n)</p>
 </ol>
