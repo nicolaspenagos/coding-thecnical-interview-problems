@@ -5,6 +5,7 @@ Here you will find some typical coding interview problems and my proposed soluti
 ## Problem set
 
 <ol>
+  <li><h4>Value of pi problem</h4><p>You have a function than randomly generates numbers from zero to one and it is uniformed distributed. Calculate the value of PI.</p><p><i>Time complexity of the solution provided: O(n)</i></p>
   <li><h4>Words counter problem</h4><p>Create a program that counts the number of repetitions of each word in a text. Ignore capital letters, commas, and periods.</p><p><i>Time complexity of the solution provided: O(n)</i></p>
 </ol>
     
